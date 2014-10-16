@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aug:home|Door43 (aug)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aug|d43-aug repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aug/archive/master.zip|d43-aug.zip]]
+
+**Recent Changes**
+{{changes>ns = aug}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aug|Ethnologue data]]
+
